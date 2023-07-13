@@ -63,3 +63,7 @@ FACULTY PORTAL
 Username: 2320007
 
 Password: Amar1234
+
+
+
+                                                              THANKS
