@@ -44,26 +44,5 @@ SYSTEM SCREENSHOTS
 
 <img src = "FA-0.jpg" width ="250" /> <img src = "FA-1.jpg" width ="250" /> <img src = "FA-2.jpg" width ="250" /> <img src = "FA-3.jpg" width ="250" /> <img src = "FA-4.jpg" width ="250" /> <img src = "FA-5.jpg" width ="250" /> <img src = "FA-6.jpg" width ="250" /> 
 
-INSTALLATION GUIDE
-
-The system was developed for a specific university thats why it was not allowed to publish on the app store, The APK is attached with the rquired credentials.
-
-APK Link: https://drive.google.com/file/d/1F6XdRr46QLcdC7urLcOzV5P2YCLFzVu7/view?usp=sharing
-
-SYSTEM CREDENTIALS
-
-STUDENT PORTAL
-
-Username: teacher
-
-Password: Amar@1234 
-
-FACULTY PORTAL
-
-Username: 2320007
-
-Password: Amar1234
-
-
 
                                                               THANKS
